@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WeatherIQ — Intelligent Weather Temperature Prediction System
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
@@ -295,3 +296,7 @@ WeatherIQ includes a deterministic demonstration dataset generator (`scripts/gen
 - **Project:** WeatherIQ — Intelligent Weather Temperature Prediction System
 - **Purpose:** College Machine Learning Capstone / Semester Project
 - **License:** MIT License
+=======
+# Wheather_And_Wind_Prediction
+WeatherIQ is an end-to-end Machine Learning web application built with Python and Streamlit that predicts future atmospheric temperatures based on historical weather patterns (past temperature, humidity, and wind speed).
+>>>>>>> 43c50e1be6166ce78cb6ea1bdaf14abc34ad69fe
